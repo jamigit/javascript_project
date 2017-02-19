@@ -1,0 +1,32 @@
+h1{
+
+}
+
+
+#theBox{
+  height:600px;
+  width:600px;
+  margin: 0 auto;
+  background: grey;
+
+}
+
+.newRow{
+
+  z-index:0;
+}
+
+.newData{
+  height:50px;
+  width:50px;
+  border: 2px solid white;
+  background: green;
+    z-index:  1;
+
+
+}
+
+.change{
+  background:red;
+    z-index:  2;
+}
