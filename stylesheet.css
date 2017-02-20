@@ -1,6 +1,14 @@
-h1{
+#holder{
+  margin: 100 auto;
+  text-align:center;
+}
+
+#reset{
+  margin: 290;
 
 }
+
+
 
 
 #theBox{
@@ -19,8 +27,8 @@ h1{
 .newData{
   height:50px;
   width:50px;
-  border: 2px solid white;
-  background: green;
+  border: none;
+  background: grey;
     z-index:  1;
 
 
